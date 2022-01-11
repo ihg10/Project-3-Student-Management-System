@@ -1,8 +1,8 @@
 # Project-3-Student-Management-System
 This project uses a main class and two other classes including the Student and Course class to run a student management system(SMS) program that displays allows a user to manage a set amount of students. The student management system can add a student to the system, deactivate a student, display all the students included, search for students by an ID that they are randomly assigned, assign a job to a student, and display students with on-campus jobs. The sytem can also be exited and switched into the course management system. The course management system(CMS) allows the user to add a new course into the program, assign the course to a student by their ID, and display all the students with the assigned course. The user may also exit either and both systems when finished. For the input of a student in the SMS , the user should input a name such as "John" for first name, "Smith" for last name, and pick between "Freshman", "Sophomore", "Junior", and "Senior". In the CMS, the user will input "TA" or "RA" for job and "part-time" or "full-time" for job type and add it to a student with their assigned ID number. The information the student enters The program  will display all the student and course information in an organized way. 
-[IshaGowdhaman_Section002_Project3.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698105/IshaGowdhaman_Section002_Project3.txt)
-[SmsObject.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698106/SmsObject.txt)
-[CmsObject.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698107/CmsObject.txt)
-[Courses.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698108/Courses.txt)
-[Student.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698109/Student.txt)
-[Student_Employee.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7698110/Student_Employee.txt)
+[IshaGowdhaman_Section002_Project3.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843600/IshaGowdhaman_Section002_Project3.txt)
+[SmsObject.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843602/SmsObject.txt)
+[CmsObject.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843603/CmsObject.txt)
+[Student.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843604/Student.txt)
+[Courses.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843605/Courses.txt)
+[Student_Employee.txt](https://github.com/ihg10/Project-3-Student-Management-System/files/7843606/Student_Employee.txt)
